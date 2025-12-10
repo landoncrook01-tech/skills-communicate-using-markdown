@@ -1,10 +1,14 @@
-# Earnestly, I dislike this course and whoever developed it.
+# this is a header
 
-###### it is bad
+###### this is a subheader
 
 ![image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ``` python
-def kill_me_now():
+def function():
   pass
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
